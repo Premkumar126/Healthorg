@@ -16,3 +16,21 @@ This is a web based application developed for health related topics
  - Included the comment space to increase the scope of improvement
  
 ## screenshots
+
+
+## About us-
+
+## Disclaimer-
+
+## Privacy Policy-
+
+## Posts-
+
+## Primary AzureTechnology use-
+1. Microsoft Azure Portal
+
+2. App Services and Web Apps
+
+## Tech Stack
+-Microsoft Azure
+- HTML

@@ -16,33 +16,28 @@ This is a web based application developed for health related topics
  - Included the comment space to increase the scope of improvement
  
 ## screenshots
-![image](https://user-images.githubusercontent.com/112188749/203755548-85e22c3e-b835-415d-8370-6bb7666a0c10.png)
-
-![image](https://user-images.githubusercontent.com/112188749/203755463-be45315c-4db2-456b-a0e9-1cb7ca4ad933.png)
-
-![image](https://user-images.githubusercontent.com/112188749/203755830-385c4ba8-cd32-47f5-a2c1-84a9aa67bb5f.png)
-
-![image](https://user-images.githubusercontent.com/112188749/203755917-277093d0-5fee-4e49-bf6b-9240223e74d3.png)
-
-![image](https://user-images.githubusercontent.com/112188749/203755980-f2cae50f-5479-46d8-a11b-3cca0915cc34.png)
+![image](https://user-images.githubusercontent.com/112188749/203814287-fadcb8da-ed2b-4ed9-aaff-1740501acd21.png)
+![image](https://user-images.githubusercontent.com/112188749/203814439-1686a650-70b8-4b50-b525-dc4d7337ccd9.png)
+![image](https://user-images.githubusercontent.com/112188749/203814203-4e5c38ae-a0ca-4add-9146-5097dd2e9901.png)
 
 ## About us-
 ![image](https://user-images.githubusercontent.com/112188749/203756124-09fdfa24-84df-4fa4-ac4a-4b4941ec2baa.png)
 
 ## Disclaimer-
-![image](https://user-images.githubusercontent.com/112188749/203756216-32d88061-5e44-454b-804b-2d144510cbb5.png)
-![image](https://user-images.githubusercontent.com/112188749/203756268-03ca1803-d231-4641-87e5-9469b0440dee.png)
+![image](https://user-images.githubusercontent.com/112188749/203814707-6e8d27d9-dc0f-4451-9af6-8a4f8cd4e84c.png)
+
 
 ## Privacy Policy-
-![image](https://user-images.githubusercontent.com/112188749/203756573-12d4c09e-3b31-4345-be5d-c8753c8c1cdd.png)
-![image](https://user-images.githubusercontent.com/112188749/203756807-0c0a77b6-c15e-413c-bfd8-53e56c8113fd.png)
-![image](https://user-images.githubusercontent.com/112188749/203756900-3456c683-5fbe-41bd-8650-f9386510c8b9.png)
-![image](https://user-images.githubusercontent.com/112188749/203756993-65059de1-6a94-4306-a01d-6357273159f9.png)
+![image](https://user-images.githubusercontent.com/112188749/203814831-b530767c-fc73-408d-a2a6-b29cc44e515e.png)
+
 
 ## Posts-
-![image](https://user-images.githubusercontent.com/112188749/203757462-79f72ef0-0b4a-49dd-a21c-731a89d205c0.png)
-![image](https://user-images.githubusercontent.com/112188749/203757557-b17e1f0b-c857-4e68-afdf-64fec00960bd.png)
-![image](https://user-images.githubusercontent.com/112188749/203757636-fe219a00-4c1c-4142-a36b-0ca69784ae69.png)
+![image](https://user-images.githubusercontent.com/112188749/203814961-8afca46e-4c52-4ada-97df-db9b5e72202f.png)
+
+![image](https://user-images.githubusercontent.com/112188749/203815119-eb60bf77-944b-409c-bb5e-49de07d3cc30.png)
+
+![image](https://user-images.githubusercontent.com/112188749/203815250-7d305fc8-505b-4a05-aa28-d3110f42568f.png)
+
 
 ## Primary AzureTechnology use-
 1. Microsoft Azure Portal
